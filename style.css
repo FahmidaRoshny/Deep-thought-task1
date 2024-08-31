@@ -1,0 +1,472 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+height: 70px;
+width: 100%;
+background-color: rgb(240, 239, 239);
+
+
+}
+.sobi{
+    height: 40px;
+    width: 35%;
+    padding: 15px 30px;
+
+}
+.logo{
+    height: 70px;
+    width: 50%;
+    float: left;
+}
+.icon{
+    height: 70px;
+    width: 50%;
+    float: right;
+
+}
+.topnav{
+    text-align: right;
+    padding:20px 45px;
+}
+.main{
+    height: 2000px;
+    width: 100%;
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 14px;
+   position: relative;
+}
+.submain{
+    height: 800px;
+    width: 100%;
+
+}
+.project{
+    height: 80px;
+    width: 100%;
+    
+}
+.pro1{
+    height: 80px;
+    width: 80%;
+    background-color:white;  
+    float: left;
+}
+.pro2{
+    height: 80px;
+    width: 20%;
+    background-color: white;  
+    float: right;
+}
+.one{
+    color: blue;
+    font-family: sans-serif;
+    text-align: left;
+    padding-left: 99px;
+}
+.btn1{
+
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    height: 35px;
+    width: 33%;
+    border: none;
+    margin-top: 20px;
+    
+}
+.second{
+    font-family: sans-serif;
+    height: 100px;
+    width: 80%; 
+    background-color: rgb(240, 239, 239);  
+    border-radius: 5px;
+    
+    margin-left: 80px;
+}
+.world{
+
+    padding: 8px;
+}
+.scr1{
+    height: 600px;
+    width: 36%; 
+    border: 1px solid rgb(92, 84, 84); 
+    border-radius: 12px;
+    float: left;
+    margin-left: 80px;
+   
+}
+.scr2{
+    height: 600px;
+    width: 36%; 
+    border: 1px solid rgb(92, 84, 84); 
+    border-radius: 12px;
+    float: right;
+    margin-right: 210px;
+}
+.black{
+    height: 55px;
+    width: 100%; 
+background-color: black;
+color: white;
+border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+text-align: center;
+padding-top: 15px;
+}
+
+.black1{
+    text-align: center;
+}
+.black2{
+    text-align: center;
+}
+.des{
+    height: 65px;
+    width: 100%; 
+    
+
+}
+.imag{
+    height: 260px;
+    width: auto; 
+   
+
+}
+
+.des2{
+    height: 90px;
+    width: 100%;  
+}
+.black1{
+    height: 55px;
+    width: 85%; 
+    float: left;
+
+}
+.black2{
+    height: 55px;
+    width: 15%; 
+    float: right;
+
+}
+.title{
+    height: 30px;
+    width: 80%; 
+   padding-left: 25px;
+   font-weight: bold;
+}
+
+.content{
+    height: 30px;
+    width: 80%; 
+   padding-left: 25px;
+   font-weight: bold;
+}
+.empty{
+    height: 35px;
+    width: 85%; 
+    margin:0px 30px 30px 30px ;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 5px 7px 10px #888888;
+}
+.tabs{
+    height: 80px;
+    width: 106%; 
+    box-shadow: 2px 5px 5px 1px #888888;
+    padding: 3px 0px 0px 15px;
+    color: dimgrey;
+}
+.empty2{
+    height: 160px;
+    width: 110%; 
+    box-shadow: 0px 7px 5px #888888;
+}
+.ta{
+
+    height: 55px;
+    width: 100%; 
+    background-color: #FDFDF1;
+}
+.mothrthed{
+    height: 140px;
+    width: 100%; 
+ 
+
+}
+.sub1{
+    height: 140px;
+    width: 50%; 
+    float: left; 
+    
+}
+.sub2{
+    height: 140px;
+    width: 50%; 
+    float: right; 
+   
+}
+.submotre{
+    height: 120px;
+    width: 100%; 
+    margin:10px;
+    
+
+}
+.subchild1{
+    height: 40px;
+    width: 15.9%; 
+    border-radius: 12px;
+    background-color: #F7F7F7;
+    position: absolute;
+    box-shadow: 5px 7px 10px #888888;
+    
+}
+
+.thread1{
+    height: 100%;
+    width:98%; 
+border: none;
+border-radius: 12px;
+
+}
+.thread1::placeholder{
+
+    padding-top: 0;
+   padding-left: 0;
+   line-height: 1em;
+}
+
+
+.subchild2{
+    height: 70px;
+    width: 90%; 
+    border-radius: 12px;
+    background-color: #FDFDFD;
+    top:20px;
+    position: relative;
+    box-shadow: 5px 7px 10px #888888;
+}
+.secndmotr{
+   
+    height: 40px;
+    width: 100%;  
+}
+.secchild1{
+    
+    height: 40px;
+    width: 40%;  
+    float: left;
+    text-align: center;
+}
+.secchild2{
+    box-shadow: 5px 7px 10px #888888;
+    height: 40px;
+    width: 29%;  
+    float: left;
+    border-radius: 8px;
+    padding-right: 7px;
+}
+.secchild3{
+    box-shadow: 5px 7px 10px #888888;
+    height: 40px;
+    width: 28%;  
+    float: right;
+    border-radius: 8px;
+    padding-right: 5px;
+}
+
+.seceteded{
+    height: 100%;
+    width: 100%; 
+    border: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.btn2{
+    margin-left: 10px;
+    border: none;
+    background-color: blue;
+    height: 35px;
+    width: 20%;
+    border-radius: 12px;
+    color: #F7F7F7;
+}
+.trdmotr{
+  
+    height: 135px;
+    width: 100%;
+}
+.child{
+    height: 110px;
+    width: 92%;
+margin: 20px;
+
+}
+.trdchild1{
+    height: 90px;
+    width: 32.7%;
+    background-color: #F7F7F7;
+    position: absolute;
+    border-top-left-radius: 12px;
+border-top-right-radius: 12px;
+box-shadow: 5px 7px 10px #888888;
+}
+.trdchild2{
+    height: 75px;
+    width: 100%;
+    background-color: #f8f6f6;
+    position: relative;
+    border-radius: 12px;
+    top:20px;
+   
+}
+.options{
+    height: 100%;
+    width: 100%;
+}
+.intro{
+   height: 38px;
+   width: 80%;
+   margin:0px 20px 20px 45px;
+   background-color: #F2F2F2;
+   font-weight: bold;
+}
+.forsa{
+    height: 38px;
+    width: 80%;
+    margin:0px 20px 20px 45px;
+}
+.see{
+    height: 30px;
+    width: 90%;
+    text-align: right;
+    color: rgb(135, 133, 133);
+    font-weight: bold;
+    padding-right: 15px;
+}
+.scndthrd{
+    height: 30px;
+    width: 90%;
+    font-weight: bold;
+    border: 1px solid rgb(245, 235, 235);
+    margin:0px 20px 20px 25px;
+}
+.develop{
+    height: 30px;
+    width: 90%;
+    margin:0px 20px 20px 25px;
+}
+.scndfor{
+    height: 30px;
+    width: 80%;
+    font-weight: bold;
+    border: 1px solid rgb(245, 235, 235);
+    margin:0px 20px 20px 45px;
+}
+.last{
+    height: 38px;
+    width: 80%;
+    margin:0px 20px 20px 65px;
+}
+
+.maintwo{
+height:600px;
+width: 20%;
+border-left: none;
+z-index: 1;
+position: absolute;
+top: 0;
+transition: width 1s;
+
+}
+.submaintwo{
+
+    height:600px;
+    width: 100%;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 3px 3px 3px #888888;
+    
+}
+
+.balckf{
+    background-color: black;
+    border-top-right-radius: 12px;
+    height: 60px;
+    width: 100%;
+   
+}
+.board{
+    height:60px;
+    width: 49%;
+    float: left;
+    color: white;
+  
+    
+}
+.list{
+    padding-top: 10px;
+    height:30px;
+    width: 45%;
+    color: white;
+    float: right;
+    text-align: right;
+    padding-right: 4px;
+    
+
+}
+.bullet{
+    height:50px;
+    width: 100%;
+    color: black;
+    padding: 10px 15px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.sidemotr{
+
+    height:400px;
+    width: 6%;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    top: 10px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    box-shadow: 5px 2px 5px 5px #888888;
+}
+
+.smol{
+    position: relative;
+    height:400px;
+    width: 50%;
+    float: left;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 50;
+}
+.khali{
+    position: relative;
+    height:400px;
+    width: 50%;
+    float: right;
+    background-color: white;
+}
+.form{
+   
+    height:155px;
+    width: 99%;
+border: 1px solid gainsboro;
+box-shadow: 2px 2px 5px 2px #888888;
+}
